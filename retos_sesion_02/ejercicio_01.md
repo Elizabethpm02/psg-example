@@ -21,8 +21,8 @@
     Unta ligeramente las rebanadas de pan con mantequilla, margarina, mostaza o mayonesa. Esto le dará un sabor adicional al sándwich.
 
 2. Arma tu sándwich:
-- Coloca las lonchas de jamón sobre dos de las rebanadas de pan.
-- Coloca las lonchas de queso sobre las otras dos rebanadas de pan.
+   * Coloca las lonchas de jamón sobre dos de las rebanadas de pan.
+   * Coloca las lonchas de queso sobre las otras dos rebanadas de pan.
 
 3. Opcionales:
 
