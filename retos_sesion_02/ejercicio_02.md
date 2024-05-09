@@ -38,13 +38,14 @@ Tengo un hermano que le gusta hablar mucho, le gusta la ciencia, los videojuegos
   
     Durante mi trayectoria académica en la universidad participe en talleres y conferencias de variados temas en tecnología como:
     1. Seguridad Informática
-    2. Ciencia de Datos
-    3. Herramientas de Desarrollo de Software
+    1. Ciencia de Datos
+    2. Herramientas de Desarrollo de Software
 
     Con mis amigos y compañeros de la universidad participé de:
-    1. Hackatones
-    2. Jornadas de Iniciación Científica
-    3. Asistente Estudiantil de Cursos de Blender y Eon XR. 
+    
+    4. Hackatones
+    5. Jornadas de Iniciación Científica
+    6. Asistente Estudiantil de Cursos de Blender y Eon XR. 
 
 
 ## **Intereses o Pasiones**
