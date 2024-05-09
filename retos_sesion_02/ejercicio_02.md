@@ -34,18 +34,19 @@ Tengo un hermano que le gusta hablar mucho, le gusta la ciencia, los videojuegos
 
 ## **Carrera y Trayectoria Profesional**
 - Estudie **Bachiller en Ciencias** en la secundaria.
+  
 - Estudie en la Universidad Tecnológica de Panamá, en la Facultad de Sistemas Computacionales, la carrera de **Licenciatura en Ingeniería en Sistemas y Computación** la cual logre culminar estudios en el presente año.
   
-    Durante mi trayectoria académica en la universidad participe en talleres y conferencias de variados temas en tecnología como:
-    1. Seguridad Informática
-    1. Ciencia de Datos
-    2. Herramientas de Desarrollo de Software
+Durante mi trayectoria académica en la universidad participe en talleres y conferencias de variados temas en tecnología como:
+1. Seguridad Informática
+2. Ciencia de Datos
+3. Herramientas de Desarrollo de Software
 
-    Con mis amigos y compañeros de la universidad participé de:
-    
-    4. Hackatones
-    5. Jornadas de Iniciación Científica
-    6. Asistente Estudiantil de Cursos de Blender y Eon XR. 
+Con mis amigos y compañeros de la universidad participé de:
+
+1. Hackatones
+2. Jornadas de Iniciación Científica
+3. Asistente Estudiantil de Cursos de Blender y Eon XR. 
 
 
 ## **Intereses o Pasiones**
