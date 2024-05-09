@@ -12,7 +12,7 @@ Hola, soy **Elizabeth Peña Morales** y me gusta:
 ### Mi frase favorita es: ***Lo Único Imposible es Aquello que no Intentas***.
 
 ***
-## Cumpleaños y Nacionalidad
+## **Cumpleaños y Nacionalidad**
 Mi fecha de cumpleaños es el **2 de marzo**, actualmente tengo 25 años y soy **panameña**. 
 
 ## **Quien soy**
@@ -37,14 +37,14 @@ Tengo un hermano que le gusta hablar mucho, le gusta la ciencia, los videojuegos
 - Estudie en la Universidad Tecnológica de Panamá, en la Facultad de Sistemas Computacionales, la carrera de **Licenciatura en Ingeniería en Sistemas y Computación** la cual logre culminar estudios en el presente año.
   
     Durante mi trayectoria académica en la universidad participe en talleres y conferencias de variados temas en tecnología como:
-    - Seguridad Informática
-    - Ciencia de Datos
-    - Herramientas de Desarrollo de Software
+    1. Seguridad Informática
+    2. Ciencia de Datos
+    3. Herramientas de Desarrollo de Software
 
     Con mis amigos y compañeros de la universidad participé de:
-    - Hackatones
-    - Jornadas de Iniciación Científica
-    - Asistente Estudiantil de Cursos de Blender y Eon XR. 
+    1. Hackatones
+    2. Jornadas de Iniciación Científica
+    3. Asistente Estudiantil de Cursos de Blender y Eon XR. 
 
 
 ## **Intereses o Pasiones**
